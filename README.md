@@ -5,7 +5,7 @@ This document outlines the API for the Todo application, providing details on av
 ## Base URL
 
 ```
-http://<your-domain>/api/todo
+http://localhost:8087/api/todo
 ```
 
 ---
